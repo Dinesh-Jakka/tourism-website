@@ -1,5 +1,7 @@
-# Tourism Website
+# Tourism Website 
 This project is a simple tourism website that showcases various famous places in India. The website is built using HTML, CSS, Bootstrap, and JavaScript. Users can navigate through different sections to learn more about the Taj Mahal, Golden Temple, Mysore Palace, and Varanasi Temple.
+
+## Live link : https://dineshjtourism.ccbp.tech/
 
 ## Features
 Home Section: Welcome message and a button to start exploring.
